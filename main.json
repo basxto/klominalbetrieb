@@ -1,9 +1,15 @@
 { "compressionlevel":-1,
  "editorsettings":
     {
+     "chunksize":
+        {
+         "height":32,
+         "width":32
+        },
      "export":
         {
-         "target":"."
+         "format":"json",
+         "target":"main.json"
         }
     },
  "height":64,
@@ -55,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"http:\/\/play.workadventu.re\/_\/frama_day5\/raw.githubusercontent.com\/frama19\/rc3-world-FraMa\/day5\/erster.json#toilet"
+                 "value":"..\/..\/..\/frama19\/rc3-world-FraMa\/day5\/erster.json#toilet"
                 }],
          "type":"tilelayer",
          "visible":false,
